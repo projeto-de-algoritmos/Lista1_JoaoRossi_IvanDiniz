@@ -1,5 +1,5 @@
 # Maze solver
-**João Gabriel Rossi de Borba - 17/0013693**
+**João Gabriel Rossi de Borba - 17/0013693**  
 **Ivan Diniz Dobbin - 17/**
 
 ## Objetivo
