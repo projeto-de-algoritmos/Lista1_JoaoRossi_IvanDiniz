@@ -18,8 +18,8 @@ COMPASS = [(-1, 0), (0, 1), (1, 0), (0, -1)]
 BLACK = (0, 0, 0, 255)
 NO_COLOR = (0, 0, 0, 0)
 WHITE = (255, 255, 255, 255)
-GREEN = (0, 255, 0, 255)
-BLUE = (0, 0, 255, 255)
+PINK = (255, 0, 255, 255)
+BLUE = (255, 255, 0, 255)
 
 
 class Maze:
@@ -128,7 +128,7 @@ class Maze:
 
     def draw_visited_cell(self, cell):
         x_pos, y_pos = self.x_y_pos(cell)
-        pygame.draw.rect(self.s_layer, GREEN, pygame.Rect(x_pos, y_pos,
+        pygame.draw.rect(self.s_layer, PINK, pygame.Rect(x_pos, y_pos,
                          CELL_SIZE, CELL_SIZE))
 
 
