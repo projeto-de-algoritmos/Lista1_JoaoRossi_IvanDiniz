@@ -1,6 +1,6 @@
 # Maze solver
 **João Gabriel Rossi de Borba - 17/0013693**  
-**Ivan Diniz Dobbin - 17/**
+**Ivan Diniz Dobbin - 17/0013278**
 
 ## Objetivo
 O objetivo principal do projeto é utilizar dos algoritmos aprendidos de busca em profundidade e busca em largura para conseguir resolver um labirinto randômico gerado baseado emgrafos.
